@@ -16,16 +16,18 @@ Dieses Projekt ist ein Numbergeneratoreratenspiel.
 | 2.| 18.8.23 | Testfälle fertig schreiben | Luca.J.W |
 | 3.| 18.8.23 | PAP-Diagramm für das Programm machen | Luca.J.W |
 | 4.| 18.8.23 | Die Zeitplanung fertig machen | Luca.J.W |
-| 5.| 25.8.23 | Anforderung 1 | Luca.J.W |
-| 6.| 25.8.23 | Anforderung 2 | Luca.J.W |
-| 7.| 25.8.23 | Anforderung 3a | Luca.J.W |
-| 8.| 25.8.23 | Anforderung 3b | Luca.J.W |
-| 9.| 25.8.23 | Anforderung 3c | Luca.J.W |
-| 10.| 25.8.23 | Anforderung 4 | Luca.J.W |
-| 11.| 1.9.23 | Anforderung 5 | Luca.J.W |
+| 5.| 25.8.23 | Anforderung 1 programmieren | Luca.J.W |
+| 6.| 25.8.23 | Anforderung 2 programmieren | Luca.J.W |
+| 7.| 25.8.23 | Anforderung 3a programmieren | Luca.J.W |
+| 8.| 25.8.23 | Anforderung 3b programmieren | Luca.J.W |
+| 9.| 25.8.23 | Anforderung 3c programmieren | Luca.J.W |
+| 10.| 25.8.23 | Anforderung 4 programmieren | Luca.J.W |
+| 11.| 1.9.23 | Anforderung 5 programmieren | Luca.J.W |
 | 12.| 1.9.23 | Highscore liste machen | Luca.J.W |
 | 13.| 1.9.23 | Zweispielermodus machen | Luca.J.W |
-| 14.| 8.9.23 | Portfolio machen | Luca.J.W |
+| 14.| 8.9.23 | Testfallspezifikation machen| Luca.J.W |
+| 15.| 8.9.23 | Testfallbericht machen | Luca.J.W |
+| 16.| 8.9.23 | Portfolio machen | Luca.J.W |
 
 
 ### 1.3 Testfälle
@@ -48,12 +50,25 @@ Dieses Projekt ist ein Numbergeneratoreratenspiel.
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| Nr. | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
-Total: 
+| 1. | muss | Luca.J.W | Arbeitspakete | 20 min |
+| 2. | muss | Luca.J.W | Testfälle | 30 min |
+| 3. | muss | Luca.J.W | PAP-Diagramm | 45 min |
+| 4. | muss | Luca.J.W | Zeitplanung | 20 min |
+| 5. | muss | Luca.J.W | Anforderung 1 | 30 min |
+| 6. | muss | Luca.J.W | Anforderung 2 | 30 min |
+| 7. | muss | Luca.J.W | Anforderung 3a | 20 min |
+| 8. | muss | Luca.J.W | Anforderung 3b | 20 min |
+| 9. | muss | Luca.J.W | Anforderung 3c | 20 min |
+| 10. | muss | Luca.J.W | Anforderung 4 | 45 min |
+| 11. | muss | Luca.J.W | Anforderung 5 | 30 min |
+| 12. | kann | Luca.J.W | Highscore liste | 60 min |
+| 13. | kann | Luca.J.W | Zweispielermodus | 90 min |
+| 14. | muss | Luca.J.W | Testfallspezifikation | 20 min |
+| 15. | muss | Luca.J.W | Testfallbericht | 20 min |
+| 16. | muss | Luca.J.W | Portfolio | 120 min |
+Total: 640 min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 

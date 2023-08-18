@@ -12,20 +12,20 @@ Dieses Projekt ist ein Numbergeneratoreratenspiel.
 
 | Nr. | Datum | Arbeitspaket | Verantwortliche Person |
 | --- |---- | ----- | --------- |
-| 18.8.23 | Arbeitspakete fertig schreiben | Luca.J.W |
-| 18.8.23 | Testfälle fertig schreiben | Luca.J.W |
-| 18.8.23 | PAP-Diagramm für das Programm machen | Luca.J.W |
-| 18.8.23 | Die Zeitplanung fertig machen | Luca.J.W |
-| 25.8.23 | Anforderung 1 | Luca.J.W |
-| 25.8.23 | Anforderung 2 | Luca.J.W |
-| 25.8.23 | Anforderung 3a | Luca.J.W |
-| 25.8.23 | Anforderung 3b | Luca.J.W |
-| 25.8.23 | Anforderung 3c | Luca.J.W |
-| 25.8.23 | Anforderung 4 | Luca.J.W |
-| 1.9.23 | Anforderung 5 | Luca.J.W |
-| 1.9.23 | Highscore liste machen | Luca.J.W |
-| 1.9.23 | Zweispielermodus machen | Luca.J.W |
-| 8.9.23 | Portfolio machen | Luca.J.W |
+| 1.| 18.8.23 | Arbeitspakete fertig schreiben | Luca.J.W |
+| 2.| 18.8.23 | Testfälle fertig schreiben | Luca.J.W |
+| 3.| 18.8.23 | PAP-Diagramm für das Programm machen | Luca.J.W |
+| 4.| 18.8.23 | Die Zeitplanung fertig machen | Luca.J.W |
+| 5.| 25.8.23 | Anforderung 1 | Luca.J.W |
+| 6.| 25.8.23 | Anforderung 2 | Luca.J.W |
+| 7.| 25.8.23 | Anforderung 3a | Luca.J.W |
+| 8.| 25.8.23 | Anforderung 3b | Luca.J.W |
+| 9.| 25.8.23 | Anforderung 3c | Luca.J.W |
+| 10.| 25.8.23 | Anforderung 4 | Luca.J.W |
+| 11.| 1.9.23 | Anforderung 5 | Luca.J.W |
+| 12.| 1.9.23 | Highscore liste machen | Luca.J.W |
+| 13.| 1.9.23 | Zweispielermodus machen | Luca.J.W |
+| 14.| 8.9.23 | Portfolio machen | Luca.J.W |
 
 
 ### 1.3 Testfälle

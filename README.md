@@ -25,6 +25,7 @@ Dieses Projekt ist ein Numbergeneratoreratenspiel.
 | 1.9.23 | Anforderung 5 | Luca.J.W |
 | 1.9.23 | Highscore liste machen | Luca.J.W |
 | 1.9.23 | Zweispielermodus machen | Luca.J.W |
+| 8.9.23 | Portfolio machen | Luca.J.W |
 
 
 ### 1.3 Testfälle

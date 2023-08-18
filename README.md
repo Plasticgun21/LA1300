@@ -44,7 +44,7 @@ Dieses Projekt ist ein Numbergeneratoreratenspiel.
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![image](https://github.com/Plasticgun21/LA1300/assets/110892742/f988f437-2556-47df-8075-80f24258a44b)
 
 ## 2 Planen
 

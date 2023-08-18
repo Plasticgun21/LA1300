@@ -32,10 +32,14 @@ Dieses Projekt ist ein Numbergeneratoreratenspiel.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1  | Programm wurde gestartet und fragt ob man ein Spiel spielen will. | Enter | Spiel startet |
+| 2  | Computer hat sich eine Zahl zwischen 1 und 100 gemerkt und fragt nach der Zahl | 4 | Zahl ist höher |
+| 3  | Computer fragt erneut nach der Zahl | 52 | Zahl ist kleiner |
+| 4  | Computer fragt erneut nach der Zahl | 2r | Falsche eingabe bitte Zahl wieder eingeben |
+| 5  | Computer fragt erneut nach der Zahl | 24 | Korrekt sie haben gewonnen |
+| 6  | Computer gratuliert dich | Enter | Zeigt an wie viele Versuche man hatte. "3" |
+| 7  | Computer fragt ob man wieder spielen will | n | Programm schliesst sich |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 

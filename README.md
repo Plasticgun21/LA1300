@@ -10,8 +10,8 @@ Dieses Projekt ist ein Numbergeneratoreratenspiel.
 
 ### 1.2 Arbeitspakete
 
-| Datum | Arbeitspaket | Verantwortliche Person |
-| ---- | ----- | --------- |
+| Nr. | Datum | Arbeitspaket | Verantwortliche Person |
+| --- |---- | ----- | --------- |
 | 18.8.23 | Arbeitspakete fertig schreiben | Luca.J.W |
 | 18.8.23 | Testfälle fertig schreiben | Luca.J.W |
 | 18.8.23 | PAP-Diagramm für das Programm machen | Luca.J.W |

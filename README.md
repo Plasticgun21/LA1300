@@ -73,6 +73,7 @@ Total: 640 min
 
 ## 3 Entscheiden
 
+Ich habe mir entschieden alle Arbeitspakette zu machen.
 
 ## 4 Realisieren
 
@@ -103,4 +104,4 @@ Total: 640 min
 
 
 ## 6 Auswerten
-
+Insgesamt war das Projekt erfolgreich, aber es gibt Raum für Verbesserungen, insbesondere bei der Behebung von Problemen mit der Highscore-Funktion und der besseren Einhaltung der geplanten Zeit. Diese Erkenntnisse werden für zukünftige Projekte berücksichtigt.

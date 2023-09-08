@@ -78,10 +78,16 @@ Total: 640 min
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 5.   |25.8.23| Luca.J.W  |       30 min  |          30 min   |
+| 6.   |25.8.23| Luca.J.W  |       30 min  |          35 min   |
+| 7.   |25.8.23| Luca.J.W  |       20 min  |          30 min   |
+| 8.   |25.8.23| Luca.J.W  |       20 min  |          25 min   |
+| 9.   |25.8.23| Luca.J.W  |       20 min  |          20 min   |
+| 10.  |25.8.23| Luca.J.W  |       45 min  |          50 min   |
+| 11.  |1.9.23 | Luca.J.W  |       30 min  |          30 min   |
+| 12.  |1.9.23 | Luca.J.W  |       60 min  |          90 min   |
+| 13.  |1.9.23 | Luca.J.W  |       90 min  |          30 min   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 

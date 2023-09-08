@@ -93,11 +93,14 @@ Total: 640 min
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.   |8.9.23 |funktioniert|Luca.J.W|
+| 2.   |8.9.23 |funktioniert|Luca.J.W|
+| 3.   |8.9.23 |funktioniert|Luca.J.W|
+| 4.   |8.9.23 |funktioniert|Luca.J.W|
+| 5.   |8.9.23 |funktioniert|Luca.J.W|
+| 6.   |8.9.23 |funktioniert ausser Highscore|Luca.J.W|
+| 7.   |8.9.23 |funktioniert|Luca.J.W|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.

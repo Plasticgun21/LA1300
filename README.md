@@ -98,7 +98,7 @@ Total: 640 min
 | 3.   |8.9.23 |funktioniert|Luca.J.W|
 | 4.   |8.9.23 |funktioniert|Luca.J.W|
 | 5.   |8.9.23 |funktioniert|Luca.J.W|
-| 6.   |8.9.23 |funktioniert ausser Highscore|Luca.J.W|
+| 6.   |8.9.23 |funktioniert aber Highscore hat manchmal Probleme|Luca.J.W|
 | 7.   |8.9.23 |funktioniert|Luca.J.W|
 
 
